@@ -3,8 +3,8 @@ const http = require("http");
 
 // Your two deployed app URLs from Render:
 const servers = [
-  "https://summative-gramar-checker-v1.onrender.com",
-  "https://aime-web02.onrender.com"
+  "https://aime-web01.onrender.com/",
+  "https://aime-web02.onrender.com/"
 ];
 
 let current = 0;
