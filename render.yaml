@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: myapp-lb
-    env: native
-    plan: free
-    buildCommand: ""
-    startCommand: "haproxy -f haproxy.cfg -db"
-
-
